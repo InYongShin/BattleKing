@@ -1,5 +1,5 @@
 
-=== Thu Jan 21 02:10:51 2021
+=== Sun Feb 28 22:54:24 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -39,16 +39,9 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-  com.unity.test-framework@1.1.20
+  com.unity.test-framework@1.1.22
   com.unity.textmeshpro@2.1.1
-  com.unity.timeline@1.2.17
+  com.unity.timeline@1.2.18
   com.unity.ugui@1.0.0
-
-=== Sat Feb 27 22:40:27 2021
-
-Packages were changed.
-Update Mode: updateDependencies
-
 The following packages were updated:
-  com.unity.test-framework from version 1.1.20 to 1.1.22
-  com.unity.timeline from version 1.2.17 to 1.2.18
+  com.unity.render-pipelines.universal from version 7.5.2 to 7.5.3
